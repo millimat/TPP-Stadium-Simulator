@@ -1,0 +1,148 @@
+Hyper Beam	NORMAL	PHYSICAL	150	2	90	regular
+Sky Attack	FLYING	PHYSICAL	140	2	90	regular
+Skull Bash	NORMAL	PHYSICAL	130	2	100	regular
+Blizzard	ICE	SPECIAL	120	1	70	regular
+Double-Edge	NORMAL	PHYSICAL	120	1	100	regular
+Fire Blast	FIRE	SPECIAL	120	1	85	regular
+Hydro Pump	WATER	SPECIAL	120	1	80	regular
+Mega Kick	NORMAL	PHYSICAL	120	1	75	regular
+Megahorn	BUG	PHYSICAL	120	1	85	regular
+Solarbeam	GRASS	SPECIAL	120	2	100	regular
+Thunder	ELECTRIC	SPECIAL	120	1	70	regular
+Frustration	NORMAL	PHYSICAL	102	1	100	regular
+Return	NORMAL	PHYSICAL	102	1	100	regular
+Aeroblast	FLYING	PHYSICAL	100	1	95	regular
+Bonemerang	GROUND	PHYSICAL	100	1	90	regular
+Cross Chop	FIGHTING	PHYSICAL	100	1	80	regular
+Dream Eater	PSYCHIC	SPECIAL	100	2	100	regular
+DynamicPunch	FIGHTING	PHYSICAL	100	1	50	regular
+Earthquake	GROUND	PHYSICAL	100	1	100	regular
+Egg Bomb	NORMAL	PHYSICAL	100	1	75	regular
+Iron Tail	STEEL	PHYSICAL	100	1	75	regular
+Sacred Fire	FIRE	SPECIAL	100	1	95	regular
+Zap Cannon	ELECTRIC	SPECIAL	100	1	50	regular
+Flamethrower	FIRE	SPECIAL	95	1	100	regular
+Ice Beam	ICE	SPECIAL	95	1	100	regular
+Surf	WATER	SPECIAL	95	1	100	regular
+Thunderbolt	ELECTRIC	SPECIAL	95	1	100	regular
+Crabhammer	WATER	SPECIAL	90	1	85	regular
+Outrage	DRAGON	SPECIAL	90	1	100	regular
+Psychic	PSYCHIC	SPECIAL	90	1	100	regular
+Sludge Bomb	POISON	PHYSICAL	90	1	100	regular
+Take Down	NORMAL	PHYSICAL	90	1	85	regular
+Thrash	NORMAL	PHYSICAL	90	1	100	regular
+Body Slam	NORMAL	PHYSICAL	85	1	100	regular
+Hi Jump Kick	FIGHTING	PHYSICAL	85	1	90	regular
+Crunch	DARK	SPECIAL	80	1	100	regular
+Drill Peck	FLYING	PHYSICAL	80	1	100	regular
+ExtremeSpeed	NORMAL	PHYSICAL	80	1	100	regular
+Hyper Fang	NORMAL	PHYSICAL	80	1	90	regular
+Mega Punch	NORMAL	PHYSICAL	80	1	85	regular
+Razor Wind	NORMAL	PHYSICAL	80	2	75	regular
+Shadow Ball	GHOST	PHYSICAL	80	1	100	regular
+Slam	NORMAL	PHYSICAL	80	1	75	regular
+Strength	NORMAL	PHYSICAL	80	1	100	regular
+Submission	FIGHTING	PHYSICAL	80	1	80	regular
+Tri Attack	NORMAL	PHYSICAL	80	1	100	regular
+Waterfall	WATER	SPECIAL	80	1	100	regular
+Fire Punch	FIRE	SPECIAL	75	1	100	regular
+Ice Punch	ICE	SPECIAL	75	1	100	regular
+Rock Slide	ROCK	PHYSICAL	75	1	90	regular
+ThunderPunch	ELECTRIC	SPECIAL	75	1	100	regular
+Dizzy Punch	NORMAL	PHYSICAL	70	1	100	regular
+Fly	FLYING	PHYSICAL	70	1	95	regular
+Headbutt	NORMAL	PHYSICAL	70	1	100	regular
+Jump Kick	FIGHTING	PHYSICAL	70	1	95	regular
+Petal Dance	GRASS	SPECIAL	70	1	100	regular
+Slash	NORMAL	PHYSICAL	70	1	100	regular
+Steel Wing	STEEL	PHYSICAL	70	1	100	regular
+Vital Throw	FIGHTING	PHYSICAL	70	1	100	regular
+Aurora Beam	ICE	SPECIAL	65	1	100	regular
+Bone Club	GROUND	PHYSICAL	65	1	85	regular
+BubbleBeam	WATER	SPECIAL	65	1	100	regular
+Horn Attack	NORMAL	PHYSICAL	65	1	100	regular
+Octazooka	WATER	SPECIAL	65	1	85	regular
+Psybeam	PSYCHIC	SPECIAL	65	1	100	regular
+Sludge	POISON	PHYSICAL	65	1	100	regular
+Spark	ELECTRIC	SPECIAL	65	1	100	regular
+Stomp	NORMAL	PHYSICAL	65	1	100	regular
+AncientPower	ROCK	PHYSICAL	60	1	100	regular
+Bite	DARK	SPECIAL	60	1	100	regular
+Dig	GROUND	PHYSICAL	60	1	100	regular
+Double Kick	FIGHTING	PHYSICAL	60	1	100	regular
+Dragonbreath	DRAGON	SPECIAL	60	1	100	regular
+Faint Attack	DARK	SPECIAL	60	1	100	regular
+Flame Wheel	FIRE	SPECIAL	60	1	100	regular
+Giga Drain	GRASS	SPECIAL	60	1	100	regular
+Hidden Power	DRAGON	SPECIAL	60	1	100	regular
+Rolling Kick	FIGHTING	PHYSICAL	60	1	85	regular
+Swift	NORMAL	PHYSICAL	60	1	100	regular
+Wing Attack	FLYING	PHYSICAL	60	1	100	regular
+Icy Wind	ICE	SPECIAL	55	1	95	regular
+Razor Leaf	GRASS	SPECIAL	55	1	95	regular
+Vicegrip	NORMAL	PHYSICAL	55	1	100	regular
+Confusion	PSYCHIC	SPECIAL	50	1	100	regular
+Cut	NORMAL	PHYSICAL	50	1	95	regular
+Karate Chop	FIGHTING	PHYSICAL	50	1	100	regular
+Metal Claw	STEEL	PHYSICAL	50	1	95	regular
+Rock Throw	ROCK	PHYSICAL	50	1	90	regular
+Struggle	NORMAL	PHYSICAL	50	1	100	regular
+Twineedle	BUG	PHYSICAL	50	1	100	regular
+Acid	POISON	PHYSICAL	40	1	100	regular
+Ember	FIRE	SPECIAL	40	1	100	regular
+False Swipe	NORMAL	PHYSICAL	40	1	100	regular
+Gust	FLYING	PHYSICAL	40	1	100	regular
+Mach Punch	FIGHTING	PHYSICAL	40	1	100	regular
+Mega Drain	GRASS	SPECIAL	40	1	100	regular
+Pay Day	NORMAL	PHYSICAL	40	1	100	regular
+Pound	NORMAL	PHYSICAL	40	1	100	regular
+Powder Snow	ICE	SPECIAL	40	1	100	regular
+Pursuit	DARK	SPECIAL	40	1	100	regular
+Quick Attack	NORMAL	PHYSICAL	40	1	100	regular
+Scratch	NORMAL	PHYSICAL	40	1	100	regular
+Snore	NORMAL	PHYSICAL	40	2	100	regular
+Thief	DARK	SPECIAL	40	1	100	regular
+ThunderShock	ELECTRIC	SPECIAL	40	1	100	regular
+Twister	DRAGON	SPECIAL	40	1	100	regular
+Water Gun	WATER	SPECIAL	40	1	100	regular
+Clamp	WATER	SPECIAL	35	1	75	regular
+Fire Spin	FIRE	SPECIAL	35	1	70	regular
+Peck	FLYING	PHYSICAL	35	1	100	regular
+Tackle	NORMAL	PHYSICAL	35	1	95	regular
+Vine Whip	GRASS	SPECIAL	35	1	100	regular
+Absorb	GRASS	SPECIAL	20	1	100	regular
+Bubble	WATER	SPECIAL	20	1	100	regular
+Leech Life	BUG	PHYSICAL	20	1	100	regular
+Lick	GHOST	PHYSICAL	20	1	100	regular
+Mud-Slap	GROUND	PHYSICAL	20	1	100	regular
+Rage	NORMAL	PHYSICAL	20	1	100	regular
+Rapid Spin	NORMAL	PHYSICAL	20	1	100	regular
+Rock Smash	FIGHTING	PHYSICAL	20	1	100	regular
+Smog	POISON	PHYSICAL	20	1	70	regular
+Bind	NORMAL	PHYSICAL	15	1	75	regular
+Poison Sting	POISON	PHYSICAL	15	1	100	regular
+Whirlpool	WATER	SPECIAL	15	1	70	regular
+Wrap	NORMAL	PHYSICAL	15	1	85	regular
+Constrict	NORMAL	PHYSICAL	10	1	100	regular
+Dragon Rage	DRAGON	PHYSICAL	0	1	100	dragonrage
+Explosion	NORMAL	PHYSICAL	250	1	100	explosion
+SelfDestruct	NORMAL	PHYSICAL	200	1	100	explosion
+Flail	NORMAL	PHYSICAL	0	1	100	flail
+Reversal	FIGHTING	PHYSICAL	0	1	100	flail
+Fury Cutter	BUG	PHYSICAL	10	1	95	furycutter
+Magnitude	GROUND	PHYSICAL	0	1	100	magnitude
+Spike Cannon	NORMAL	PHYSICAL	20	1	100	multistrike
+Pin Missile	BUG	PHYSICAL	14	1	85	multistrike
+Comet Punch	NORMAL	PHYSICAL	18	1	85	multistrike
+Fury Swipes	NORMAL	PHYSICAL	18	1	80	multistrike
+Bone Rush	GROUND	PHYSICAL	25	1	80	multistrike
+Barrage	NORMAL	PHYSICAL	15	1	85	multistrike
+DoubleSlap	NORMAL	PHYSICAL	15	1	85	multistrike
+Fury Attack	NORMAL	PHYSICAL	15	1	85	multistrike
+Night Shade	GHOST	PHYSICAL	0	1	100	nightshade
+Seismic Toss	FIGHTING	PHYSICAL	0	1	100	seismictoss
+Psywave	PSYCHIC	SPECIAL	0	1	80	psywave
+Rollout	ROCK	PHYSICAL	30	1	90	rollout
+SonicBoom	NORMAL	PHYSICAL	0	1	90	sonicboom
+Super Fang	NORMAL	PHYSICAL	0	1	90	superfang
+Triple Kick	FIGHTING	PHYSICAL	0	1	90	triplekick

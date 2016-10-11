@@ -1,0 +1,246 @@
+Bulbasaur	Grass	Poison	271	174	176	206	206	168	Razor Leaf	Headbutt	Toxic	Growth
+Ivysaur	Grass	Poison	287	188	188	222	222	184	Solarbeam	Fury Cutter	Leech Seed	Sunny Day
+Venusaur	Grass	Poison	313	212	214	248	248	206	Giga Drain	Tackle	Poisonpowder	Growl
+Charmander	Fire	none	259	180	164	196	176	208	Flamethrower	Slash	Dragonbreath	Sunny Day
+Charmeleon	Fire	none	283	192	178	222	192	224	Fire Blast	Strength	Dig	Smokescreen
+Charizard	Fire	Flying	309	216	204	266	218	246	Fire Punch	Wing Attack	Growl	Scary Face
+Squirtle	Water	none	269	172	208	176	204	164	Surf	Bite	Blizzard	Rain Dance
+Wartortle	Water	none	285	190	222	192	222	180	Waterfall	Icy Wind	Dig	Rapid Spin
+Blastoise	Water	none	311	214	248	218	258	202	Hydro Pump	Rapid Spin	Mud-Slap	Withdraw
+Caterpie	Bug	none	284	149	159	133	133	181	Tackle	String Shot	none	none
+Metapod	Bug	none	294	129	199	143	143	151	Harden	none	none	none
+Butterfree	Bug	Flying	294	161	169	229	229	209	Gust	Psychic	Hyper Beam	Stun Spore
+Weedle	Bug	Poison	274	159	149	133	133	191	Poison Sting	String Shot	none	none
+Kakuna	Bug	Poison	284	139	189	143	143	161	Harden	none	none	none
+Beedrill	Bug	Poison	304	231	149	159	229	219	Twineedle	Sludge Bomb	Pursuit	Focus Energy
+Pidgey	Normal	Flying	268	173	165	153	153	195	Fly	Return	Steel Wing	Sand-attack
+Pidgeotto	Normal	Flying	307	196	188	176	176	220	Fly	Frustration	Steel Wing	Mirror Move
+Pidgeot	Normal	Flying	325	216	206	194	194	236	Fly	Swift	Steel Wing	Whirlwind
+Rattata	Normal	none	248	195	155	133	153	227	Super Fang	Headbutt	Shadow Ball	Focus Energy
+Raticate	Normal	none	277	226	182	162	202	258	Super Fang	Hyper Fang	Pursuit	Scary Face
+Spearow	Normal	Flying	268	203	145	145	145	223	Drill Peck	Frustration	Steel Wing	Mirror Move
+Fearow	Normal	Flying	297	244	192	184	184	264	Drill Peck	Hyper Beam	Pursuit	Toxic
+Ekans	Poison	none	258	203	173	163	191	193	Sludge Bomb	Earthquake	Strength	Glare
+Arbok	Poison	none	287	234	200	192	220	224	Sludge Bomb	Bite	Dig	Glare
+Pikachu	Electric	none	251	186	138	176	156	258	Thunderbolt	Headbutt	Iron Tail	Thunder Wave
+Raichu	Electric	none	279	236	166	234	214	254	Thunder	Quick Attack	Thunder Wave	Tail Whip
+Sandshrew	Ground	none	281	226	248	116	136	158	Earthquake	Slash	Fury Cutter	Sandstorm
+Sandslash	Ground	none	309	256	276	144	164	184	Earthquake	Fury Swipes	Sand-attack	Sandstorm
+Nidoran F	Poison	none	298	177	189	163	163	165	Headbutt	Iron Tail	Blizzard	Toxic
+Nidorina	Poison	none	314	195	203	179	179	181	Strength	Bite	Blizzard	Toxic
+Nidoqueen	Poison	Ground	339	220	230	204	224	206	Body Slam	Mud-Slap	Ice Punch	Toxic
+Nidoran M	Poison	none	280	197	165	163	163	183	Headbutt	Iron Tail	Thunder	Horn Drill
+Nidorino	Poison	none	296	215	183	179	179	199	Strength	Double Kick	Thunder	Horn Drill
+Nidoking	Poison	Ground	321	240	210	224	204	224	Horn Attack	Mud-Slap	Thunder	Horn Drill
+Clefairy	Normal	none	321	166	174	196	206	148	Metronome	Strength	Psychic	Moonlight
+Clefable	Normal	none	349	196	202	224	234	174	Metronome	Headbutt	Ice Punch	Encore
+Vulpix	Fire	none	264	165	165	183	213	213	Flamethrower	Dig	Confuse Ray	Sunny Day
+Ninetales	Fire	none	299	200	198	210	248	246	Fire Blast	Quick Attack	Roar	Safeguard
+Jigglypuff	Normal	none	418	173	125	173	133	123	Body Slam	Rollout	Defense Curl	Sing
+Wigglytuff	Normal	none	447	204	152	212	162	154	Double-Edge	Fire Punch	Disable	Sing
+Zubat	Poison	Flying	274	179	159	153	173	201	Wing Attack	Giga Drain	Confuse Ray	Toxic
+Golbat	Poison	Flying	309	216	196	184	204	234	Wing Attack	Bite	Steel Wing	Haze
+Oddish	Grass	Poison	271	176	188	226	206	138	Giga Drain	Sludge Bomb	Moonlight	Stun Spore
+Gloom	Grass	Poison	294	201	209	239	219	149	Solarbeam	Sludge Bomb	Sleep Powder	Sunny Day
+Vileplume	Grass	Poison	309	216	226	254	234	154	Petal Dance	Acid	Sweet Scent	Poisonpowder
+Paras	Bug	Grass	258	223	195	173	193	133	Giga Drain	Slash	Spore	Growth
+Parasect	Bug	Grass	287	254	222	182	222	124	Giga Drain	Slash	Fury Cutter	Spore
+Venonat	Bug	Poison	301	186	178	156	186	168	Sludge Bomb	Psychic	Supersonic	Stun Spore
+Venomoth	Bug	Poison	303	190	180	238	208	238	Sludge Bomb	Psychic	Leech Life	Foresight
+Diglett	Ground	none	208	193	135	153	173	273	Earthquake	Slash	Fissure	Sand-attack
+Dugtrio	Ground	none	237	224	162	162	202	304	Magnitude	Slash	Attract	Curse
+Meowth	Normal	none	268	173	155	163	163	263	Slash	Faint Attack	Shadow Ball	Screech
+Persian	Normal	none	297	204	182	192	192	294	Headbutt	Bite	Roar	Growl
+Psyduck	Water	none	281	180	174	206	176	188	Surf	Dig	Swagger	Psych Up
+Golduck	Water	none	313	212	204	238	208	216	Hydro Pump	Fury Swipes	Confusion	Psych Up
+Mankey	Fighting	none	261	236	148	146	166	218	Cross Chop	Strength	Double Team	Screech
+Primeape	Fighting	none	289	266	176	174	194	244	Cross Chop	Thrash	Curse	Focus Energy
+Growlithe	Fire	none	284	211	159	209	169	189	Flamethrower	Dig	Sunny Day	Roar
+Arcanine	Fire	none	325	260	200	240	200	230	Flame Wheel	Extremespeed	Leer	Roar
+Poliwag	Water	none	261	176	158	156	156	258	Hydro Pump	Body Slam	Hypnosis	Rain Dance
+Poliwhirl	Water	none	304	201	199	169	169	249	Surf	Snore	Belly Drum	Rest
+Poliwrath	Water	Fighting	333	218	238	188	228	186	Dynamicpunch	Hydro Pump	Doubleslap	Mind Reader
+Abra	Psychic	none	231	116	108	286	186	258	Psychic	Ice Punch	Swagger	Attract
+Kadabra	Psychic	none	247	134	122	302	202	274	Psychic	Thunderpunch	Reflect	Kinesis
+Alakazam	Psychic	none	269	156	146	324	224	294	Psybeam	Future Sight	Thief	Kinesis
+Machop	Fighting	none	321	236	178	146	146	148	Cross Chop	Seismic Toss	Earthquake	Double Team
+Machoke	Fighting	none	327	264	202	162	182	154	Vital Throw	Strength	Dig	Foresight
+Machamp	Fighting	none	337	312	212	182	222	160	Submission	Scary Face	Thunderpunch	Fire Punch
+Bellsprout	Grass	Poison	281	226	148	216	136	158	Giga Drain	Sludge Bomb	Toxic	Growth
+Weepinbell	Grass	Poison	304	251	169	239	159	179	Razor Leaf	Sludge Bomb	Stun Spore	Growth
+Victreebel	Grass	Poison	319	266	186	254	174	194	Solarbeam	Acid	Sleep Powder	Growth
+Tentacool	Water	Poison	261	156	148	176	276	218	Surf	Sludge Bomb	Blizzard	Screech
+Tentacruel	Water	Poison	313	188	178	208	288	246	Bubblebeam	Sludge Bomb	Wrap	Barrier
+Geodude	Rock	Ground	261	236	278	136	136	118	Earthquake	Rollout	Explosion	Defense Curl
+Graveler	Rock	Ground	284	261	299	159	159	139	Earthquake	Rollout	Selfdestruct	Sandstorm
+Golem	Rock	Ground	319	276	316	164	184	144	Magnitude	Rock Throw	Rock Smash	Harden
+Ponyta	Fire	none	267	234	172	192	192	244	Fire Blast	Headbutt	Iron Tail	Sunny Day
+Rapidash	Fire	none	285	252	192	210	210	260	Fire Spin	Stomp	Attract	Toxic
+Slowpoke	Water	Psychic	361	206	208	156	156	108	Surf	Psychic	Earthquake	Amnesia
+Slowbro	Water	Psychic	353	210	278	258	218	120	Surf	Confusion	Disable	Growl
+Magnemite	Electric	Steel	231	146	218	266	186	168	Thunder	Frustration	Supersonic	Thunder Wave
+Magneton	Electric	Steel	259	176	246	294	194	194	Thunder	Swift	Flash	Thunder Wave
+Farfetch'd	Normal	Flying	278	201	179	185	193	189	Slash	Fly	Steel Wing	Swords Dance
+Doduo	Normal	Flying	251	246	168	146	146	228	Drill Peck	Tri Attack	Steel Wing	Double Team
+Dodrio	Normal	Flying	279	276	196	174	174	254	Fly	Tri Attack	Pursuit	Growl
+Seel	Water	none	311	166	188	166	216	168	Surf	Ice Beam	Headbutt	Safeguard
+Dewgong	Water	Ice	339	196	216	194	244	194	Waterfall	Aurora Beam	Sleep Talk	Rest
+Grimer	Poison	none	341	236	178	156	176	128	Sludge Bomb	Frustration	Toxic	Screech
+Muk	Poison	none	365	262	202	180	250	150	Sludge	Dynamicpunch	Disable	Acid Armor
+Shellder	Water	none	241	206	278	166	126	158	Surf	Ice Beam	Swift	Supersonic
+Cloyster	Water	Ice	253	238	408	218	138	186	Clamp	Aurora Beam	Spike Cannon	Withdraw
+Gastly	Ghost	Poison	241	146	138	276	146	238	Shadow Ball	Psychic	Curse	Confuse Ray
+Haunter	Ghost	Poison	257	164	152	292	172	254	Shadow Ball	Giga Drain	Spite	Destiny Bond
+Gengar	Ghost	Poison	275	182	172	310	200	270	Night Shade	Thief	Nightmare	Hypnosis
+Onix	Rock	Ground	244	161	389	129	159	209	Earthquake	Rock Throw	Strength	Sandstorm
+Drowzee	Psychic	none	301	172	168	162	256	162	Psychic	Headbutt	Dream Eater	Hypnosis
+Hypno	Psychic	none	329	202	196	200	284	188	Confusion	Dream Eater	Psych Up	Hypnosis
+Krabby	Water	none	241	286	258	126	126	178	Crabhammer	Strength	Blizzard	Guillotine
+Kingler	Water	none	269	316	286	154	154	204	Crabhammer	Vicegrip	Guillotine	Leer
+Voltorb	Electric	none	261	136	178	186	186	278	Thunder	Selfdestruct	Mirror Coat	Rain Dance
+Electrode	Electric	none	279	156	196	214	214	334	Thunder	Swift	Sonicboom	Flash
+Exeggcute	Grass	Psychic	301	156	238	196	166	158	Psychic	Giga Drain	Stun Spore	Leech Seed
+Exeggutor	Grass	Psychic	343	238	218	298	178	156	Egg Bomb	Confusion	Nightmare	Sleep Powder
+Cubone	Ground	none	281	176	268	156	176	148	Bonemerang	Headbutt	Icy Wind	Focus Energy
+Marowak	Ground	none	287	224	282	162	222	154	Bone Rush	Thrash	Thunderpunch	Focus Energy
+Hitmonlee	Fighting	none	263	300	164	128	278	234	Hi Jump Kick	Mega Kick	Reversal	Meditate
+Hitmonchan	Fighting	none	263	270	216	128	278	212	Mach Punch	Strength	Ice Punch	Counter
+Lickitung	Normal	none	354	181	219	189	219	129	Hyper Beam	Shadow Ball	Surf	Supersonic
+Koffing	Poison	none	261	206	268	196	166	148	Sludge Bomb	Fire Blast	Explosion	Toxic
+Weezing	Poison	none	289	236	296	224	194	174	Sludge	Zap Cannon	Selfdestruct	Haze
+Rhyhorn	Ground	Rock	341	246	268	136	136	128	Earthquake	Rollout	Iron Tail	Scary Face
+Rhydon	Ground	Rock	369	316	296	144	144	134	Dig	Stomp	Zap Cannon	Scary Face
+Chansey	Normal	none	659	66	66	124	264	154	Egg Bomb	Blizzard	Dream Eater	Sing
+Tangela	Grass	none	297	174	292	262	142	184	Giga Drain	Thief	Sleep Powder	Growth
+Kangaskhan	Normal	none	369	246	216	134	214	234	Dizzy Punch	Bite	Surf	Leer
+Horsea	Water	none	248	163	225	223	133	203	Hydro Pump	Blizzard	Rain Dance	Smokescreen
+Seadra	Water	none	277	194	252	252	152	234	Surf	Dragonbreath	Swift	Smokescreen
+Goldeen	Water	none	271	210	198	146	176	204	Surf	Horn Attack	Horn Drill	Supersonic
+Seaking	Water	none	323	244	188	188	218	196	Waterfall	Flail	Horn Drill	Supersonic
+Staryu	Water	none	241	166	188	216	186	248	Psychic	Hydro Pump	Thunder	Recover
+Starmie	Water	Psychic	273	198	218	248	218	276	Waterfall	Zap Cannon	Rapid Spin	Harden
+Mr. Mime	Psychic	none	239	146	186	254	294	234	Psybeam	Barrier	Baton Pass	Substitute
+Scyther	Bug	Flying	295	272	212	160	210	260	Wing Attack	Pursuit	Swift	Focus Energy
+Jynx	Ice	Psychic	289	156	126	284	244	244	Ice Punch	Confusion	Lick	Mean Look
+Electabuzz	Electric	none	289	222	170	244	224	264	Thunderpunch	Swift	Light Screen	Leer
+Magmar	Fire	none	289	246	170	254	224	240	Fire Punch	Smog	Smokescreen	Confuse Ray
+Pinsir	Bug	none	285	302	252	160	190	220	Fury Cutter	Vicegrip	Submission	Focus Energy
+Tauros	Normal	none	309	256	246	134	194	274	Take Down	Pursuit	Rock Smash	Scary Face
+Magikarp	Water	none	234	109	199	123	133	251	Tackle	Flail	Splash	none
+Gyarados	Water	Flying	343	298	206	168	248	208	Waterfall	Dragon Rage	Twister	Leer
+Lapras	Water	Ice	413	218	208	218	238	166	Whirlpool	Icy Wind	Perish Song	Mist
+Ditto	Normal	none	277	172	174	172	172	174	Transform	none	none	none
+Eevee	Normal	none	291	186	178	166	206	188	Take Down	Iron Tail	Shadow Ball	Sand-attack
+Vaporeon	Water	none	413	178	168	268	238	176	Waterfall	Quick Attack	Acid Armor	Sand-attack
+Jolteon	Electric	none	283	178	168	268	238	306	Zap Cannon	Pin Missile	Double Kick	Sand-attack
+Flareon	Fire	none	283	308	168	238	268	176	Fire Blast	Smog	Quick Attack	Tail Whip
+Porygon	Normal	none	304	191	209	239	219	149	Tri Attack	Blizzard	Sharpen	Conversion 2
+Omanyte	Rock	Water	244	151	269	249	179	139	Surf	Ancientpower	Blizzard	Protect
+Omastar	Rock	Water	299	176	306	284	194	164	Water Gun	Ancientpower	Spike Cannon	Bite
+Kabuto	Rock	Water	234	231	249	179	159	179	Rollout	Giga Drain	Blizzard	Attract
+Kabutops	Rock	Water	279	286	266	184	194	214	Ancientpower	Surf	Leer	Endure
+Aerodactyl	Rock	Flying	309	254	174	164	194	302	Ancientpower	Bite	Curse	Supersonic
+Snorlax	Normal	none	473	268	178	178	268	106	Headbutt	Fire Punch	Defense Curl	Curse
+Articuno	Ice	Flying	320	205	235	225	285	205	Blizzard	Peck	Agility	Mist
+Zapdos	Electric	Flying	320	215	205	285	215	235	Thunder	Rock Smash	Flash	Detect
+Moltres	Fire	Flying	320	235	215	285	205	215	Fire Blast	Sky Attack	Roar	Endure
+Dratini	Dragon	none	263	204	168	176	176	178	Outrage	Headbutt	Safeguard	Thunder Wave
+Dragonair	Dragon	none	289	232	192	202	202	204	Outrage	Slam	Fire Blast	Thunder Wave
+Dragonite	Dragon	Flying	325	306	228	238	238	198	Twister	Wing Attack	Dragon Rage	Leer
+Chikorita	Grass	none	271	174	208	174	206	168	Giga Drain	Body Slam	Light Screen	Toxic
+Bayleef	Grass	none	287	188	222	188	222	184	Razor Leaf	Body Slam	Safeguard	Synthesis
+Meganium	Grass	none	313	212	248	214	248	206	Solarbeam	Strength	Poisonpowder	Reflect
+Cyndaquil	Fire	none	259	180	164	196	176	208	Flamethrower	Headbutt	Dig	Sunny Day
+Quilava	Fire	none	283	192	178	222	192	224	Fire Blast	Rollout	Strength	Smokescreen
+Typhlosion	Fire	none	309	216	204	266	218	246	Flame Wheel	Swift	Rock Smash	Smokescreen
+Totodile	Water	none	281	206	206	164	172	164	Surf	Blizzard	Slash	Screech
+Croconaw	Water	none	297	224	222	180	188	180	Hydro Pump	Ice Punch	Slash	Scary Face
+Feraligatr	Water	none	323	258	248	206	214	202	Water Gun	Dig	Dynamicpunch	Leer
+Sentret	Normal	none	264	181	157	163	183	131	Headbutt	Shadow Ball	Rollout	Defense Curl
+Furret	Normal	none	337	216	190	152	172	244	Strength	Ice Punch	Thunderpunch	Amnesia
+Hoothoot	Normal	Flying	308	143	145	155	195	183	Fly	Swift	Dream Eater	Hypnosis
+Noctowl	Normal	Flying	367	164	162	214	254	204	Fly	Take Down	Confusion	Foresight
+Ledyba	Bug	Flying	268	123	145	163	243	193	Double-Edge	Ice Punch	Reflect	Safeguard
+Ledian	Bug	Flying	284	141	169	179	289	239	Giga Drain	Dig	Hyper Beam	Supersonic
+Spinarak	Bug	Poison	274	209	169	173	173	151	Sludge Bomb	Leech Life	Dig	Night Shade
+Ariados	Bug	Poison	314	251	209	189	189	149	Sludge Bomb	Protect	Toxic	Spider Web
+Crobat	Poison	Flying	323	228	208	188	208	306	Fly	Bite	Leech Life	Supersonic
+Chinchou	Water	Electric	331	152	154	188	188	212	Surf	Thunder	Rain Dance	Confuse Ray
+Lanturn	Water	Electric	409	172	172	206	206	188	Hydro Pump	Spark	Flail	Supersonic
+Pichu	Electric	none	234	169	119	163	163	211	Thunder	Headbutt	Attract	Sweet Kiss
+Cleffa	Normal	none	294	139	145	183	203	121	Headbutt	Psychic	Encore	Sweet Kiss
+Igglybuff	Normal	none	374	149	119	173	133	121	Headbutt	Dream Eater	Sing	Sweet Kiss
+Togepi	Normal	none	264	129	219	173	223	131	Headbutt	Metronome	Attract	Sweet Kiss
+Togetic	Normal	Flying	277	144	232	222	272	144	Fly	Double-Edge	Metronome	Charm
+Natu	Psychic	Flying	261	176	168	216	166	218	Psychic	Future Sight	Night Shade	Confuse Ray
+Xatu	Psychic	Flying	289	206	196	244	194	244	Fly	Future Sight	Night Shade	Flash
+Mareep	Electric	none	298	163	165	213	173	153	Thunder	Headbutt	Light Screen	Thunder Wave
+Flaaffy	Electric	none	314	181	179	229	189	159	Thunderpunch	Fire Punch	Cotton Spore	Light Screen
+Ampharos	Electric	none	335	202	202	280	230	160	Zap Cannon	Dynamicpunch	Swift	Flash
+Bellossom	Grass	none	309	216	226	234	254	154	Petal Dance	Cut	Poisonpowder	Attract
+Marill	Water	none	334	129	189	133	193	171	Surf	Rollout	Defense Curl	Swagger
+Azumarill	Water	none	367	164	222	162	222	164	Waterfall	Icy Wind	Defense Curl	Rain Dance
+Sudowoodo	Rock	none	307	264	292	122	192	124	Rock Slide	Dig	Strength	Mimic
+Politoed	Water	none	335	202	202	230	250	190	Whirlpool	Icy Wind	Perish Song	Swagger
+Hoppip	Grass	Flying	264	159	169	163	203	191	Giga Drain	Headbutt	Leech Seed	Sleep Powder
+Skiploom	Grass	Flying	291	166	178	166	206	238	Solarbeam	Headbutt	Synthesis	Sunny Day
+Jumpluff	Grass	Flying	313	170	198	168	228	280	Mega Drain	Headbutt	Stun Spore	Leech Seed
+Aipom	Normal	none	284	211	179	149	179	239	Strength	Double Team	Baton Pass	Agility
+Sunkern	Grass	none	254	149	149	153	153	151	Giga Drain	Sludge Bomb	Attract	Growth
+Sunflora	Grass	none	317	214	172	272	232	124	Razor Leaf	Hyper Beam	Toxic	Growth
+Yanma	Bug	Flying	304	201	159	219	159	259	Giga Drain	Headbutt	Swagger	Double Team
+Wooper	Water	Ground	304	179	179	143	143	121	Surf	Earthquake	Ice Punch	Amnesia
+Quagsire	Water	Ground	357	234	232	192	192	134	Surf	Dig	Slam	Haze
+Espeon	Psychic	none	283	178	168	308	238	266	Psybeam	Swift	Tail Whip	Psych Up
+Umbreon	Dark	none	343	178	268	168	308	176	Faint Attack	Quick Attack	Sand-attack	Mean Look
+Murkrow	Dark	Flying	287	234	146	232	146	246	Faint Attack	Fly	Night Shade	Haze
+Slowking	Water	Psychic	349	206	216	254	274	114	Psychic	Water Gun	Disable	Growl
+Misdreavus	Ghost	none	287	184	182	232	232	234	Shadow Ball	Thunder	Psywave	Pain Split
+Unown	Psychic	none	275	230	180	230	182	180	Hidden Power	none	none	none
+Wobbuffet	Psychic	none	547	130	178	128	178	130	Counter	Mirror Coat	Safeguard	Destiny Bond
+Girafarig	Normal	Psychic	299	216	186	234	184	224	Psybeam	Stomp	Crunch	Agility
+Pineco	Bug	none	288	213	265	153	153	113	Double-Edge	Giga Drain	Explosion	Spikes
+Forretress	Bug	Steel	309	236	336	174	174	134	Strength	Rollout	Sandstorm	Spikes
+Dunsparce	Normal	none	367	204	202	192	192	154	Strength	Dig	Attract	Glare
+Gligar	Ground	Flying	297	214	272	132	192	234	Slash	Faint Attack	Guillotine	Sand-attack
+Steelix	Steel	Ground	303	218	448	158	178	106	Iron Tail	Mud-Slap	Rock Throw	Sandstorm
+Snubbull	Normal	none	308	243	185	163	163	143	Strength	Shadow Ball	Charm	Swagger
+Granbull	Normal	none	343	300	208	178	178	150	Headbutt	Dynamicpunch	Bite	Scary Face
+Qwilfish	Water	Poison	297	254	212	172	172	234	Sludge Bomb	Hydro Pump	Pin Missile	Minimize
+Scizor	Bug	Steel	295	312	252	160	210	180	Metal Claw	Cut	Agility	Leer
+Shuckle	Bug	Rock	207	84	522	82	522	74	Sludge Bomb	Rollout	Bide	Sandstorm
+Heracross	Bug	Fighting	313	298	198	128	238	216	Megahorn	Rock Smash	Thief	Leer
+Sneasel	Dark	Ice	277	254	172	132	212	294	Ice Punch	Beat Up	Slash	Screech
+Teddiursa	Normal	none	301	236	178	176	176	158	Slash	Faint Attack	Earthquake	Attract
+Ursaring	Normal	none	335	312	202	200	200	160	Dig	Fire Punch	Snore	Rest
+Slugma	Fire	none	274	169	169	233	173	131	Flamethrower	Rock Slide	Body Slam	Amnesia
+Magcargo	Fire	Rock	267	164	302	222	222	124	Fire Blast	Rock Slide	Smog	Amnesia
+Swinub	Ice	Ground	294	189	169	153	153	191	Blizzard	Earthquake	Strength	Mist
+Piloswine	Ice	Ground	363	260	218	178	178	160	Icy Wind	Earthquake	Fury Attack	Mist
+Corsola	Water	Rock	284	181	239	199	239	139	Surf	Ancientpower	Mirror Coat	Attract
+Remoraid	Water	none	258	213	155	213	153	213	Surf	Ice Beam	Hyper Beam	Lock-on
+Octillery	Water	none	309	266	206	264	204	144	Octazooka	Hyper Beam	Focus Energy	Lock-on
+Delibird	Ice	Flying	271	186	168	206	166	228	Present	Blizzard	Fly	Double Team
+Mantine	Water	Flying	289	136	196	214	334	194	Wing Attack	Waterfall	Take Down	Supersonic
+Skarmory	Steel	Flying	289	216	336	134	194	194	Steel Wing	Fly	Fury Attack	Agility
+Houndour	Dark	Fire	271	196	138	236	176	208	Flamethrower	Crunch	Sludge Bomb	Sunny Day
+Houndoom	Dark	Fire	305	232	152	270	210	240	Ember	Bite	Swift	Roar
+Kingdra	Water	Dragon	303	238	238	238	238	216	Waterfall	Twister	Frustration	Leer
+Phanpy	Ground	none	361	196	198	156	156	158	Earthquake	Double-Edge	Double Team	Swagger
+Donphan	Ground	none	335	292	292	170	170	150	Earthquake	Rapid Spin	Sandstorm	Growl
+Porygon2	Normal	none	323	208	228	258	238	166	Swift	Zap Cannon	Thief	Conversion
+Stantler	Normal	none	305	246	180	224	184	224	Stomp	Dream Eater	Mud-Slap	Hypnosis
+Smeargle	Normal	none	304	129	159	133	183	241	Body Slam	Mach Punch	Flamethrower	Confuse Ray
+Tyrogue	Fighting	none	264	159	159	163	163	161	Rock Smash	Strength	Double Team	Attract
+Hitmontop	Fighting	none	283	270	268	148	298	220	Triple Kick	Strength	Focus Energy	Counter
+Smoochum	Ice	Psychic	271	136	108	246	206	208	Psychic	Blizzard	Sing	Sweet Kiss
+Elekid	Electric	none	264	197	143	199	179	259	Thunderbolt	Headbutt	Screech	Light Screen
+Magby	Fire	none	264	221	143	209	179	235	Flamethrower	Iron Tail	Confuse Ray	Sunny Day
+Miltank	Normal	none	349	216	266	134	194	254	Stomp	Ice Punch	Heal Bell	Bide
+Blissey	Normal	none	663	68	68	198	318	156	Egg Bomb	Thunder	Defense Curl	Flash
+Raikou	Electric	none	323	208	188	268	238	268	Spark	Quick Attack	Flash	Roar
+Entei	Fire	none	370	265	205	215	185	235	Fire Blast	Rock Smash	Leer	Roar
+Suicune	Water	none	343	188	268	218	268	208	Bubblebeam	Gust	Mist	Roar
+Larvitar	Rock	Ground	288	211	185	173	183	165	Rock Slide	Earthquake	Hyper Beam	Swagger
+Pupitar	Rock	Ground	307	232	202	192	202	166	Rock Slide	Dig	Hyper Beam	Screech
+Tyranitar	Rock	Dark	343	306	258	228	238	160	Bite	Mud-Slap	Leer	Sandstorm
