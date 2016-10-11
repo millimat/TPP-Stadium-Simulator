@@ -16,7 +16,7 @@ def pokeDict():
     #each Pokemon's name, type(s), Stadium 2 stats, and moves.       
 
     dictionary = {} 
-    pokeFile = open('pokeList.txt', 'r')
+    pokeFile = open('data/pokeList.txt', 'r')
 
     #Converts each line of the file to a list of the Pokemon's data.
     #The slice [:-1] eliminates the '\n' at the end of each line.
@@ -40,7 +40,7 @@ def moveDict():
     #and accuracies.
     
     dictionary = {}
-    moveFile = open('moves.txt', 'r')
+    moveFile = open('data/moves.txt', 'r')
 
     #Converts file lines to lists
     lines = [line[:-1].strip().split('\t') for line in moveFile.readlines()]
@@ -65,7 +65,7 @@ def moveDict():
 
 def types():
     #Creates a table of type matchups to assist in damage calculation.
-    typeFile = open('typeChart.txt','r')
+    typeFile = open('data/typeChart.txt','r')
 
     #Reads the file's lines, then splits by whitespace, converting the string
     #for each damage modifier into a float
